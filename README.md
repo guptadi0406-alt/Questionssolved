@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0172-factorial-trailing-zeroes) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2235-add-two-integers) |
