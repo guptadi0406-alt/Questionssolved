@@ -14,8 +14,7 @@ class Solution {
 
            result[i] -= (nums[i]*(n-i-1));
            result[i] += (nums[i]*(i));
-           result[i] -= (curr);
-           result[i] += (sum-curr-nums[i]);
+           result[i] += (sum-(2*curr)-nums[i]);
 
 
            curr+=nums[i];
