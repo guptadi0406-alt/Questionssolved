@@ -1,9 +1,6 @@
 class Solution {
     public int[][] rangeAddQueries(int n, int[][] queries) {
-        
-        int row[] = new int[n];
-        int col[] = new int[n];
-
+   
         int m =queries.length;
         int ans [][]=new int[n][n];
 
