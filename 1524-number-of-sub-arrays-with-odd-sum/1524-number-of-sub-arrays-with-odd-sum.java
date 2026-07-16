@@ -5,7 +5,7 @@ class Solution {
     int invmod = 500000004;
     public int numOfSubarrays(int[] arr) {
 
-        int n = arr.length;
+        long n = arr.length;
         long curr = 0;
 
         HashMap<Long,Long> hm = new HashMap<>();
@@ -19,13 +19,9 @@ class Solution {
         }
 
 
-        long il = (((long)n%MOD*(n+1L)%MOD)+MOD)%MOD;
+        long il = ((n%MOD*(n+1)%MOD)+MOD)%MOD;
         long left = ((il%MOD * invmod%MOD)+MOD)%MOD;
         long right = ans % MOD;
-
-
-
-
  
         return (((int)left%MOD - (int)right%MOD)+MOD)%MOD;
         
