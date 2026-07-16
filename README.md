@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
