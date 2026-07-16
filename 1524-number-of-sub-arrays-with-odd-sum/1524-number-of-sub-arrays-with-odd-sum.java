@@ -23,9 +23,7 @@ class Solution {
         long left = ((il%MOD * invmod%MOD)+MOD)%MOD;
         long right = ans % MOD;
 
-        System.out.println(left);
-        System.out.println(n);
-        System.out.println(right);
+
 
 
  
