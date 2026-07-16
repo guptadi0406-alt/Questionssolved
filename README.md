@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1109-corporate-flight-bookings) |
 | [1288-remove-covered-intervals](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0930-binary-subarrays-with-sum) |
 | [1109-corporate-flight-bookings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1109-corporate-flight-bookings) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -75,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Stack
 |  |
