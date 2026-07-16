@@ -8,7 +8,7 @@ class Solution {
             if(nums[i]==0) nums[i]=-1;
         }
 
-        // System.out.println(Arrays.toString(nums));
+       
 
         HashMap<Integer,Integer> hm = new HashMap<>();
 
@@ -22,8 +22,7 @@ class Solution {
             if(hm.containsKey(curr)){
                 ans = Math.max(ans,i-hm.get(curr));
 
-                // System.out.println(hm.get(curr));
-                // System.out.println(i);
+       
 
             }else{
                 hm.put(curr,i);
