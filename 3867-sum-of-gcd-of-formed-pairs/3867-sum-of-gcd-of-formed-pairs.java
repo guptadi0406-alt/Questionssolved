@@ -15,7 +15,7 @@ class Solution {
         }
 
         Arrays.sort(pre);
-        // System.out.println(Arrays.toString(pre));
+        
 
 
         int i=0;int j=n-1;
