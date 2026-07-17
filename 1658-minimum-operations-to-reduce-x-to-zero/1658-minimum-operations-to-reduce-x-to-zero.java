@@ -1,28 +1,24 @@
 class Solution {
     public int minOperations(int[] arr, int x) {
         
-            long n = arr.length;
+            int n = arr.length;
 
-            long sum =0;
+            int sum =0;
             for(int i=0;i<n;i++) sum+=arr[i];
 
-            long target = sum-x;
+            int target = sum-x;
 
-            if(target==0){
-                return (int)n;
-            }
+            if(target==0) return n;
 
 
-            HashMap<Long,Integer> hm = new HashMap<>();
-            hm.put(0l,-1);
-              
-            long curr=0;
-            long max = Integer.MIN_VALUE;
+            HashMap<Integer,Integer> hm = new HashMap<>();
+            hm.put(0,-1);
+            int curr=0;
+            int max = Integer.MIN_VALUE;
             for(int i=0;i<n;i++){
 
                     curr+=arr[i];
-                    long tofind = curr - target;
-                 
+                    int tofind = curr - target;
                     if(hm.containsKey(tofind)){
                         max=Math.max(max,i-hm.get(tofind));
                     }
@@ -33,6 +29,6 @@ class Solution {
         if(max == Integer.MIN_VALUE){
                 return -1;
          }
-        return (int)(n-max);
+        return n-max;
     }
 }
