@@ -21,7 +21,7 @@ class Solution {
 
         }
 
-        System.out.println(Arrays.toString(pre));
+        // System.out.println(Arrays.toString(pre));
 
         int k = queries.length;
 
