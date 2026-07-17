@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Stack
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0930-binary-subarrays-with-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
