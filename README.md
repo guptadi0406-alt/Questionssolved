@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2063-vowels-of-all-substrings) |
 | [2235-add-two-integers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2469-convert-the-temperature) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3719-longest-balanced-subarray-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3719-longest-balanced-subarray-i) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
