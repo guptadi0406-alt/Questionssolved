@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3028-ant-on-the-boundary](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3028-ant-on-the-boundary) |
 | [3719-longest-balanced-subarray-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3719-longest-balanced-subarray-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3028-ant-on-the-boundary](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3028-ant-on-the-boundary) |
 | [3719-longest-balanced-subarray-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3719-longest-balanced-subarray-i) |
 ## Depth-First Search
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3028-ant-on-the-boundary](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3028-ant-on-the-boundary) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
