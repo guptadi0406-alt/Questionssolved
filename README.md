@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2262-total-appeal-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2262-total-appeal-of-a-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
@@ -151,10 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2063-vowels-of-all-substrings) |
+| [2262-total-appeal-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2262-total-appeal-of-a-string) |
 ## String
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2063-vowels-of-all-substrings) |
+| [2262-total-appeal-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2262-total-appeal-of-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Combinatorics
