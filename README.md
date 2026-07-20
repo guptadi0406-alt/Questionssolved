@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0525-contiguous-array) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
@@ -150,12 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2262-total-appeal-of-a-string) |
 ## String
 |  |
 | ------- |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [2063-vowels-of-all-substrings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2262-total-appeal-of-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2483-minimum-penalty-for-a-shop) |
