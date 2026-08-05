@@ -42,13 +42,8 @@ class Solution {
             graph[invocations[i][0]].add(invocations[i][1]);
         }
 
-        System.out.println(Arrays.toString(graph));
-
         int mark[]=new int[n];
         dfs1(k,graph,mark);
-
-
-        System.out.println(Arrays.toString(mark));
 
         int visited[]=new int[n];
 
