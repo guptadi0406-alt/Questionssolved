@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
 | [0832-flipping-an-image](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0832-flipping-an-image) |
 | [0930-binary-subarrays-with-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
 | [1288-remove-covered-intervals](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1338-reduce-array-size-to-the-half) |
@@ -145,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Number Theory
 |  |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
 | [0991-broken-calculator](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0991-broken-calculator) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1338-reduce-array-size-to-the-half) |
