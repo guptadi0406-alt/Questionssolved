@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1109-corporate-flight-bookings) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1338-reduce-array-size-to-the-half) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1338-reduce-array-size-to-the-half) |
 | [1590-make-sum-divisible-by-p](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1590-make-sum-divisible-by-p) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0991-broken-calculator](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0991-broken-calculator) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1338-reduce-array-size-to-the-half) |
 | [2592-maximize-greatness-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2592-maximize-greatness-of-an-array) |
 ## Heap (Priority Queue)
