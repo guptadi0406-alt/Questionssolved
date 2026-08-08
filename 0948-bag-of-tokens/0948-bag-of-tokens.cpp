@@ -12,7 +12,7 @@ public:
 
         while(i<=j){
 
-            cout << i << " " << score << " " << power << '\n';
+
             if(tokens[i]<=power){
                 power-=tokens[i];
                 score++;
