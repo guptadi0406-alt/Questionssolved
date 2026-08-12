@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxSubarrayLength(vector<int>& nums, int k) {
         int n = nums.size();
-        map<int,int> mp;
+        unordered_map<int,int> mp;
 
         int i=0;int j=0;
         int ans = 0;
@@ -26,11 +26,6 @@ public:
                 i++;
                 maxfreq--;
             }
-
-            // for(auto v : mp){
-            //     cout << v.first << " -  " << v.second << '\n';
-            // }
-            // cout << '\n';
 
             ans = max(ans,j-i+1);
             j++;
