@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0525-contiguous-array) |
+| [0605-can-place-flowers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
 | [0832-flipping-an-image](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0832-flipping-an-image) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0605-can-place-flowers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
 | [0948-bag-of-tokens](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0991-broken-calculator) |
