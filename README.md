@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2364-count-number-of-bad-pairs) |
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Stack
 |  |
 | ------- |
