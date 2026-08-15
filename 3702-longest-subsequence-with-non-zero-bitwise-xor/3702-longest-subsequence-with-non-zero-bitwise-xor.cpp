@@ -8,18 +8,15 @@ public:
             a=a^nums[j];
         }
 
-        cout << a << " ";
+
         if(a!=0) return n;
 
         int k = 0;
         for(int j=0;j<n;j++){
             if(nums[j]!=0){
                 a=a^nums[j];
-                cout << a << " ";
                 k++;
                 if(a!=0) return n-k;
-            }else{
-                
             }
         }
 
