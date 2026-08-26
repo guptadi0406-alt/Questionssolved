@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
 | [0832-flipping-an-image](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
+| [0881-boats-to-save-people](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0948-bag-of-tokens) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0605-can-place-flowers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
+| [0881-boats-to-save-people](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0991-broken-calculator) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1201-ugly-number-iii) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
