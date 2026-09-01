@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2090-k-radius-subarray-averages) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2364-count-number-of-bad-pairs) |
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Stack
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2090-k-radius-subarray-averages](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2090-k-radius-subarray-averages) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
