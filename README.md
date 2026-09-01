@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3731-find-missing-elements) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -317,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0881-boats-to-save-people) |
+## Queue
+|  |
+| ------- |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
