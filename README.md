@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3028-ant-on-the-boundary](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3453-separate-squares-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3453-separate-squares-i) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [3453-separate-squares-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3453-separate-squares-i) |
 ## Stack
 |  |
 | ------- |
