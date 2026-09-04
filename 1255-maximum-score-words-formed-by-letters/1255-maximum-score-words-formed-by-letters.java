@@ -9,9 +9,7 @@ class Solution {
         int mask = 0;
 
         for(char v : arr[i].keySet()){   
-            if(cnt[v-'a'] + arr[i].get(v)<=mp.getOrDefault(v,0)){
-
-            }else{
+            if(cnt[v-'a'] + arr[i].get(v)>mp.getOrDefault(v,0)){
                 mask=1;
                 break;
             }
@@ -63,9 +61,6 @@ class Solution {
 
         int cnt[]= new int[26];
         rec(0,arr,mp,score,cnt,0);
-
-        // System.out.println(mp);
-        // System.out.println(Arrays.toString(arr));
 
 
         return max;
