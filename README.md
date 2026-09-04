@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0992-subarrays-with-k-different-integers) |
 | [1109-corporate-flight-bookings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1109-corporate-flight-bookings) |
+| [1219-path-with-maximum-gold](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1219-path-with-maximum-gold) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0832-flipping-an-image) |
+| [1219-path-with-maximum-gold](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1219-path-with-maximum-gold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
 ## Simulation
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+## Backtracking
+|  |
+| ------- |
+| [1219-path-with-maximum-gold](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1219-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
