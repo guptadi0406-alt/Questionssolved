@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3731-find-missing-elements) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3028-ant-on-the-boundary](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3028-ant-on-the-boundary) |
 | [3719-longest-balanced-subarray-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3719-longest-balanced-subarray-i) |
+| [3903-smallest-stable-index-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3903-smallest-stable-index-i) |
 ## Depth-First Search
 |  |
 | ------- |
