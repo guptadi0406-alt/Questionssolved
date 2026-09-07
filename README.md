@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0076-minimum-window-substring) |
 | [0523-continuous-subarray-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0525-contiguous-array) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0992-subarrays-with-k-different-integers) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0076-minimum-window-substring) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1208-get-equal-substrings-within-budget) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
