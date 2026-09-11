@@ -1,7 +1,6 @@
 class Solution {
     int arr[3];
     int taken[20];
-    int cnt = 0;
     set<int> st;
     void rec(int level,vector<int>& digits,int n){
 
@@ -37,9 +36,7 @@ class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
         int n = digits.size();
-        
         rec(0,digits,n);
         return st.size();
-
     }
 };
