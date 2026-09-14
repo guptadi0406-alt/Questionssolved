@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3731-find-missing-elements) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
