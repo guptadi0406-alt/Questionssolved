@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3453-separate-squares-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3453-separate-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3718-smallest-missing-multiple-of-k) |
