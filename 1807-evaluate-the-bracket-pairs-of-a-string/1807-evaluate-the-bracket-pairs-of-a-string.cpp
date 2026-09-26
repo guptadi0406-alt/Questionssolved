@@ -1,7 +1,8 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        map<string,string> mp;
+        unordered_map<string,string> mp;
+        
         int n = knowledge.size();
 
         for(int i=0;i<n;i++){
@@ -25,7 +26,7 @@ public:
                 }else{
                     ns+="?";
                 }
-                
+
                 news = "";
             }else{
                 if(isbracket){
