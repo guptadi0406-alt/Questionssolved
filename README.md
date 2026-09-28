@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1208-get-equal-substrings-within-budget) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2063-vowels-of-all-substrings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2262-total-appeal-of-a-string) |
@@ -408,4 +410,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
