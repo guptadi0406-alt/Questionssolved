@@ -6,12 +6,12 @@ public:
 
         for(int i=0;i<num;i++){
 
-            for(int j=9;j>=0;j--){
-                if(sum-j>=0){
-                    sum-=j;
-                    s+=to_string(j);
-                    break;
-                }
+            if(sum>9){
+                sum-=9;
+                s+="9";
+            }else{
+                s+=to_string(sum);
+                sum=0;
             }
 
         }
