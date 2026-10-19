@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1338-reduce-array-size-to-the-half) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0832-flipping-an-image) |
 | [1219-path-with-maximum-gold](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1219-path-with-maximum-gold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
 ## Simulation
 |  |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1338-reduce-array-size-to-the-half) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Counting Sort
@@ -430,4 +435,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Shortest Path
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
