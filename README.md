@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2364-count-number-of-bad-pairs) |
 | [2469-convert-the-temperature](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2652-sum-multiples) |
+| [2709-greatest-common-divisor-traversal](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2709-greatest-common-divisor-traversal) |
 | [3536-maximum-product-of-two-digits](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2592-maximize-greatness-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2592-maximize-greatness-of-an-array) |
+| [2709-greatest-common-divisor-traversal](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2709-greatest-common-divisor-traversal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3028-ant-on-the-boundary](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3028-ant-on-the-boundary) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2685-count-the-number-of-complete-components) |
+| [2709-greatest-common-divisor-traversal](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2709-greatest-common-divisor-traversal) |
 ## Graph Theory
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1201-ugly-number-iii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2709-greatest-common-divisor-traversal](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2709-greatest-common-divisor-traversal) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -383,10 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1201-ugly-number-iii) |
+| [2709-greatest-common-divisor-traversal](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2709-greatest-common-divisor-traversal) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1201-ugly-number-iii) |
+| [2709-greatest-common-divisor-traversal](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2709-greatest-common-divisor-traversal) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
@@ -455,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Prime Factorization
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2709-greatest-common-divisor-traversal) |
 <!---LeetCode Topics End-->
