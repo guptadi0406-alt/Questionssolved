@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3719-longest-balanced-subarray-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -156,11 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2685-count-the-number-of-complete-components](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2685-count-the-number-of-complete-components) |
 | [2709-greatest-common-divisor-traversal](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2709-greatest-common-divisor-traversal) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2536-increment-submatrices-by-one](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2536-increment-submatrices-by-one) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
