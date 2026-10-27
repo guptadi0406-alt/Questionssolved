@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2652-sum-multiples) |
 | [2709-greatest-common-divisor-traversal](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2709-greatest-common-divisor-traversal) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3453-separate-squares-i](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3453-separate-squares-i) |
 ## Stack
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0832-flipping-an-image) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2262-total-appeal-of-a-string) |
+| [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## String
 |  |
 | ------- |
