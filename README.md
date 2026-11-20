@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0209-minimum-size-subarray-sum) |
+| [0312-burst-balloons](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0312-burst-balloons) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0032-longest-valid-parentheses) |
+| [0312-burst-balloons](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0312-burst-balloons) |
 | [0583-delete-operation-for-two-strings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
