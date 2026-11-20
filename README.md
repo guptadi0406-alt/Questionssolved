@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0032-longest-valid-parentheses) |
+| [0583-delete-operation-for-two-strings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0076-minimum-window-substring) |
+| [0583-delete-operation-for-two-strings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -485,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2709-greatest-common-divisor-traversal](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2709-greatest-common-divisor-traversal) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
