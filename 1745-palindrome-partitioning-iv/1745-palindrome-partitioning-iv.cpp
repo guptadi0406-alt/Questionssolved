@@ -27,12 +27,9 @@ class Solution {
         int ans = 0;
         for(int j=i;j>=0;j--){
 
-            if(is_pal(j,i,s)){
-                if(rec(j-1,k-1,s)){
-                    ans = 1;
-                }
+            if(is_pal(j,i,s) && rec(j-1,k-1,s)){
+                ans = 1;  
             }
-
         }
 
         return dp[i][k]=ans ;
