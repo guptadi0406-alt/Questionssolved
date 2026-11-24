@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1745-palindrome-partitioning-iv](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1745-palindrome-partitioning-iv) |
 | [2063-vowels-of-all-substrings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2262-total-appeal-of-a-string) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1745-palindrome-partitioning-iv](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1745-palindrome-partitioning-iv) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2063-vowels-of-all-substrings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2063-vowels-of-all-substrings) |
 | [2262-total-appeal-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2262-total-appeal-of-a-string) |
