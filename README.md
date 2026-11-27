@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0764-largest-plus-sign](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0764-largest-plus-sign) |
 | [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
 | [0832-flipping-an-image](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0881-boats-to-save-people) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0312-burst-balloons) |
 | [0583-delete-operation-for-two-strings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0678-valid-parenthesis-string) |
+| [0764-largest-plus-sign](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0764-largest-plus-sign) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0940-distinct-subsequences-ii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0940-distinct-subsequences-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1255-maximum-score-words-formed-by-letters) |
