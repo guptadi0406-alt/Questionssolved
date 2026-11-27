@@ -7,11 +7,11 @@ class Solution {
 
     int rec(int city,int k){
 
+
+        if(k<0) return 1e9;
         if(city == d){
             return 0;
         }
-
-        if(k<0) return 1e9;
 
         if(dp[city][k]!=-1) return dp[city][k];
         int ans = 1e9;
@@ -29,7 +29,7 @@ public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
 
         graph.assign(n,vector<pair<int,int>>());
-        dp.assign(n+1,vector<int>(k+1,-1));
+        dp.assign(n+1,vector<int>(k+2,-1));
         d = dst;
         for(int i=0;i<flights.size();i++){
 
@@ -41,7 +41,7 @@ public:
         }
 
 
-        int ans = rec(src,k) ;
+        int ans = rec(src,k+1) ;
         return ans == 1e9 ? -1 : ans ;
 
     }
