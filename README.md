@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/guptadi0406-alt/Questionssolved/tree/master/3310-remove-methods-from-project) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2685-count-the-number-of-complete-components](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2685-count-the-number-of-complete-components) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2685-count-the-number-of-complete-components](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2685-count-the-number-of-complete-components) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0678-valid-parenthesis-string) |
 | [0764-largest-plus-sign](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0764-largest-plus-sign) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0940-distinct-subsequences-ii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0940-distinct-subsequences-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1338-reduce-array-size-to-the-half](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1338-reduce-array-size-to-the-half) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -481,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## 0-1 BFS
