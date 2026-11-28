@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0940-distinct-subsequences-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1278-palindrome-partitioning-iii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1278-palindrome-partitioning-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1745-palindrome-partitioning-iv](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1745-palindrome-partitioning-iv) |
 | [2063-vowels-of-all-substrings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2063-vowels-of-all-substrings) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1208-get-equal-substrings-within-budget) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1278-palindrome-partitioning-iii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1278-palindrome-partitioning-iii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1745-palindrome-partitioning-iv](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1745-palindrome-partitioning-iv) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
