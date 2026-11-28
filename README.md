@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0948-bag-of-tokens) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1338-reduce-array-size-to-the-half) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0940-distinct-subsequences-ii](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0940-distinct-subsequences-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1745-palindrome-partitioning-iv](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1745-palindrome-partitioning-iv) |
 | [2063-vowels-of-all-substrings](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2063-vowels-of-all-substrings) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/guptadi0406-alt/Questionssolved/tree/master/0991-broken-calculator) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/guptadi0406-alt/Questionssolved/tree/master/1338-reduce-array-size-to-the-half) |
 | [2384-largest-palindromic-number](https://github.com/guptadi0406-alt/Questionssolved/tree/master/2384-largest-palindromic-number) |
